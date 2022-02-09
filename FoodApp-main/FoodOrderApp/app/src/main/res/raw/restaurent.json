@@ -1,0 +1,217 @@
+[
+    {
+      "name":"KFC",
+      "address":"Baia Mare Str. Victoriei nr. 73",
+      "delivery_charge": 5,
+      "image":"https://www.picng.com/upload/kfc/png_kfc_64306.png",
+
+      "hours":{
+        "Sunday":"11:00 - 19:00",
+        "Monday":"10:00- 21:00",
+        "Tuesday":"10:00 - 22:00",
+        "Wednesday":"10:00 - 23:00",
+        "Thursday":"10:00 - 22:00",
+        "Friday":"10:00 - 23:00",
+        "Saturday":"10:00 - 23:00"
+      },
+      "menus": [
+        {
+          "name": "8 Strips Nepicanti",
+          "price": 21.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/wj4gsbcolpt96jbchizr"
+        },
+        {
+          "name": "Smart Box",
+          "price": 33.99,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/f3vrhsjvyo4e9kgby5is"
+        },
+
+        {
+          "name": "Giant Bucket(meniu mare)",
+          "price": 85.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/rjm4sg1tpu0utsql794p"
+        },
+        {
+          "name": "Smart Menu Plus Picant",
+          "price": 29.50,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/altg8bj3a9zzkbivzhda"
+        },
+        {
+          "name": "Smart Menu Plus Nepicant",
+          "price": 29.50,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/tw6ys0sf9riawdkymcga"
+        },
+        {
+          "name": "Meniu 9 Fillet Bites meniu",
+          "price": 32.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/amvz3rkzrpylahy3xite"
+        }
+
+      ]
+    },
+    {
+      "name":"Dabo Doner",
+      "address":"Bulevardul Unirii 8",
+      "delivery_charge": 4,
+      "image":"https://static.takeaway.com/images/restaurants/ro/OOON7501/logo_465x320.png",
+
+      "hours":{
+        "Sunday":"11:00  - 19:00",
+        "Monday":"10:00  - 22:00",
+        "Tuesday":"10:00  - 22:00",
+        "Wednesday":"10:00  - 20:00",
+        "Thursday":"10:00  - 22:00",
+        "Friday":"10:00  - 22:00",
+        "Saturday":"9:00  - 23:00"
+      },
+      "menus": [
+        {
+          "name": "Doner de pui",
+          "price": 37.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/snrsken5hldet0ratugk"
+        },
+        {
+          "name": "Sandwich crispy",
+          "price": 24.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/utnbuyz5doassej6bxkv"
+        },
+        {
+          "name": "Kebab de pui la farfurie L",
+          "price": 34.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/etmfa3sratnxqhetlylh"
+        },
+        {
+          "name": "Sandwich Hamburger L",
+          "price": 20.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/stcjhss4pzf9rfhld0f1"
+        },
+        {
+          "name": "Cheeseburger meniu",
+          "price": 36.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/gvbhtepzf1lpyssaase9"
+        },
+        {
+          "name": "Durum de pui meniu mare",
+          "price": 37.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/rcs5apmcqvrc1u0qpxvz"
+        },
+        {
+          "name": "Hamburger meniu",
+          "price": 35.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/kauxxflo6nngehnigysp"
+        },
+        {
+          "name": "Meniu Crispy",
+          "price": 38.00,
+          "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/wgy26ozxyyhxgotd554d"
+        }
+
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Bulevardul Unirii 8A",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00  - 19:00",
+      "Monday":"10:00  - 22:00",
+      "Tuesday":"10:00  - 22:00",
+      "Wednesday":"10:00  - 20:00",
+      "Thursday":"10:00  - 22:00",
+      "Friday":"10:00 - 22:00",
+      "Saturday":"9:00  - 23:00"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Bizo",
+    "address":"Bulevardul Bucuresti 8",
+    "delivery_charge": 6,
+    "image":"data:image/png;base64,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",
+    "hours":{
+      "Sunday":"11:00  - 19:00 ",
+      "Monday":"10:00  - 22:00 ",
+      "Tuesday":"10:00  - 22:00 ",
+      "Wednesday":"10:00  - 20:00 ",
+      "Thursday":"10:00  - 22:00 ",
+      "Friday":"10:00  - 22:00 ",
+      "Saturday":"10:00  - 23:00 "
+    },
+    "menus": [
+      {
+        "name": "Sandwich Crispy",
+        "price": 16.90,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/umaw0w7kyirvzvku9ykt"
+      },
+      {
+        "name": "Sandwich cu pui",
+        "price": 16.90,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/qm9uea4igl2rcxciasbf"
+      },
+      {
+        "name": "Sandwich parizian",
+        "price": 16.90,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/ot2rxejcxcjomh1wwio3"
+      },
+      {
+        "name": "Pui grill",
+        "price": 4.20,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/g211vstbp2pddvgpxsid"
+      },
+      {
+        "name": "Pui cu legume(portie mica) ",
+        "price": 4.20,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/dyhogpqbchxuvf3qcc4y"
+      },
+      {
+        "name": "Cornulețe cu magiun",
+        "price": 7.28,
+        "url": "https://res.cloudinary.com/glovoapp/w_96,h_96,c_thumb,f_auto,q_auto:best/dpr_auto/Products/dqtut1lpnxucicfrnkhy"
+
+      },
+      {
+        "name": "Red Velvet",
+        "price": 9.10,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/cp68wmjgvm3ih7bbusua"
+
+      },
+      {
+        "name": "Macarons",
+        "price": 12.30,
+        "url": "https://res.cloudinary.com/glovoapp/w_600,f_auto,q_auto/Products/oxygqbf7pidgwxylr05y"
+      }
+    ]
+  }
+]
